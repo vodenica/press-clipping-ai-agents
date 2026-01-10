@@ -4,7 +4,7 @@
 ## 🇷🇸 Top 50 Most Visited and Influential Serbian News Media Outlets (2026)
 
 > **Key Findings:**  
-> This table presents up to 50 of the most visited and reputable Serbian news agencies, web portals, magazines, newspapers, and general websites. Each entry includes the official website and verified social media accounts (X, Facebook, Instagram, TikTok, YouTube, LinkedIn) where available. The selection covers a broad spectrum: politics, society, sports, economy, culture, and daily life, ensuring a comprehensive overview of Serbia’s digital media landscape.
+> This table presents up to 50 of the most visited and reputable Serbian news agencies, web portals, magazines, newspapers, and general websites. Each entry includes the official website and verified social media accounts (X, Facebook, Instagram, TikTok, YouTube, LinkedIn) where available. The selection encompasses a broad spectrum, including politics, society, sports, economy, culture, and daily life, providing a comprehensive overview of Serbia’s digital media landscape.
 
 ---
 
