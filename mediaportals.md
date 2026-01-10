@@ -3,8 +3,6 @@
 
 ## 🇷🇸 Top 50 Most Visited and Influential Serbian News Media Outlets (January 2026)
 
----
-
 ### 📰 Comprehensive Table of Serbian News Media Outlets
 
 | # | Outlet | Website | Facebook | X (Twitter) | Instagram | TikTok | YouTube | LinkedIn |
@@ -65,8 +63,6 @@
 ## 🇷🇸 The Most Visited and Influential Serbian News Media Outlets in Niš (January 2026)
 
 #### Serbian Media Portals - Social Media & Web Overview
-
-Below is a table showing **number**, **full name**, **website**, and links to official social media profiles for each portal (as of January 2026). If a platform link does not exist or cannot be found, it is marked with “—”.
 
 | #  | Full Name                       | Website                                      | Facebook                                                                 | X (Twitter)                        | Instagram                                  | TikTok                                 | YouTube                                              | LinkedIn                                         |
 |----|---------------------------------|----------------------------------------------|--------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------------|------------------------------------------------------|--------------------------------------------------|
