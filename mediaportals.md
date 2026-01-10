@@ -32,7 +32,7 @@
 | 23 | 021.rs | [021.rs](https://www.021.rs) | [FB](https://www.facebook.com//Radio021?ref=ts#) | [X](https://x.com/Radio021) | [IG](https://www.instagram.com/radio_021/) | - | [YT](https://www.youtube.com/user/www021rs/videos) | [LI](https://www.linkedin.com/company/medijskakuca021/) |
 | 24 | Direktno.rs | [direktno.rs](https://direktno.rs) | [FB](https://www.facebook.com/direktno.rs) | [X](https://x.com/DirektnoRS) | [IG](https://www.instagram.com/direktno.rs) | - | [YT](https://www.youtube.com/@DirektnoRS) | - |
 | 25 | Cenzolovka | [cenzolovka.rs](https://www.cenzolovka.rs) | [FB](https://www.facebook.com/cenzolovka) | [X](https://x.com/cenzolovka) | [IG](https://www.instagram.com/cenzolovka/) | - | - | - |
-| 26 | Peščanik | [pescanik.net](https://pescanik.net) | [FB](https://www.facebook.com/Pescanik) | [X](https://x.com/Pescanik) |  |  |  |  |
+| 26 | Peščanik | [pescanik.net](https://pescanik.net) | [FB](https://www.facebook.com//Pescaniknet) | [X](https://x.com/Pescanik) | - | - | [YT](https://www.youtube.com/user/pescanik) | - |
 | 27 | Autonomija | [autonomija.info](https://www.autonomija.info) | [FB](https://www.facebook.com/autonomija.info) | [X](https://x.com/autonomija_info) |  |  |  |  |
 | 28 | eKapija | [ekapija.com](https://www.ekapija.com) | [FB](https://www.facebook.com/eKapija) | [X](https://x.com/ekapija) | [IG](https://www.instagram.com/ekapija) |  | [YT](https://www.youtube.com/@eKapija) | [LI](https://www.linkedin.com/company/ekapija) |
 | 29 | Biznis.rs | [biznis.rs](https://biznis.rs) | [FB](https://www.facebook.com/biznis.rs) |  |  |  |  |  |
