@@ -12,7 +12,7 @@
 
 | # | Outlet | Website | Facebook | X (Twitter) | Instagram | TikTok | YouTube | LinkedIn |
 |---|--------|---------|----------|-------------|-----------|--------|---------|----------|
-| 1 | Kurir | [kurir.rs](https://www.kurir.rs) | [FB](https://www.facebook.com/kuririnfo) | [X](https://x.com/kurirvesti) | [IG](https://www.instagram.com/kurir.rs) | [TT](https://www.tiktok.com/@kurir.rs) | [YT](https://www.youtube.com/@KurirTelevizija) | [LI](https://www.linkedin.com/company/kurir) |
+| 1 | Kurir | [kurir.rs](https://www.kurir.rs) | [FB](https://www.facebook.com/kuririnfo) | [X](https://x.com/kurirvesti) | [IG](https://www.instagram.com/kurir.rs) | [TT](https://www.tiktok.com/@kurir.rs) | [YT](https://www.youtube.com/@Kurir) | [LI](https://www.linkedin.com/company/kurir) |
 | 2 | Blic | [blic.rs](https://www.blic.rs) | [FB](https://www.facebook.com/Blic.rs) | [X](https://x.com/blic_online) | [IG](https://www.instagram.com/blic.rs) | [TT](https://www.tiktok.com/@blic.rs) | [YT](https://www.youtube.com/@BlicOnline) | [LI](https://www.linkedin.com/company/blic) |
 | 3 | Telegraf | [telegraf.rs](https://www.telegraf.rs) | [FB](https://www.facebook.com/telegraf.rs) | [X](https://x.com/telegrafrs) | [IG](https://www.instagram.com/telegraf.rs) | [TT](https://www.tiktok.com/@telegraf.rs) | [YT](https://www.youtube.com/@TelegrafTV) | [LI](https://www.linkedin.com/company/telegraf) |
 | 4 | Informer | [informer.rs](https://www.informer.rs) | [FB](https://www.facebook.com/Informer) | [X](https://x.com/informersrbija) | [IG](https://www.instagram.com/informer.rs) | [TT](https://www.tiktok.com/@informer.rs) | [YT](https://www.youtube.com/@InformerTV) | [LI](https://www.linkedin.com/company/informer) |
