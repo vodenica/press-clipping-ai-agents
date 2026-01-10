@@ -1,7 +1,7 @@
 
 
 
-## 🇷🇸 Top 50 Most Visited and Influential Serbian News Media Outlets (2026)
+## 🇷🇸 Top 50 Most Visited and Influential Serbian News Media Outlets (January 2026)
 
 > **Key Findings:**  
 > This table presents up to 50 of the most visited and reputable Serbian news agencies, web portals, magazines, newspapers, and general websites. Each entry includes the official website and verified social media accounts (X, Facebook, Instagram, TikTok, YouTube, LinkedIn) where available. The selection encompasses a broad spectrum, including politics, society, sports, economy, culture, and daily life, providing a comprehensive overview of Serbia’s digital media landscape.
@@ -65,7 +65,7 @@
 
 ---
 
-## 🇷🇸 The Most Visited and Influential Serbian News Media Outlets in Niš (2026)
+## 🇷🇸 The Most Visited and Influential Serbian News Media Outlets in Niš (January 2026)
 
 #### Serbian Media Portals - Social Media & Web Overview
 
@@ -98,7 +98,7 @@ Below is a table showing **number**, **full name**, **website**, and links to of
 
 ---
 
-## 🇷🇸 The Most Influential Serbian Political Parties (2026)
+## 🇷🇸 The Most Influential Serbian Political Parties (January 2026)
 
 #### Serbian Political Parties News & Social Media Portals & Web Overview
 
