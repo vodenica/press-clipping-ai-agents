@@ -88,7 +88,7 @@
 
 | Party (Abbreviation) | Official Website | Facebook | X (Twitter) | Instagram | TikTok | YouTube | LinkedIn |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Serbian Progressive Party** (SNS) | [sns.org.rs](https://www.sns.org.rs) | [@snssrbija](https://www.facebook.com/snssrbija) | [@sns_srbija](https://twitter.com/sns_srbija) | [@snssrbija](https://instagram.com/snssrbija) | – | [SNS Srbija](https://www.youtube.com/@snssrbija) | – |
+| **Serbian Progressive Party** (SNS) | [sns.org.rs](https://www.sns.org.rs) | [@snssrbija](https://www.facebook.com/snssrbija) | [@sns_srbija](https://twitter.com/sns_srbija) | [@snssrbija](https://www.instagram.com/sns_srbija?igshid=NGExMmI2YTkyZg%3D%3D) | – | [SNS Srbija](https://www.youtube.com/@snssrbija) | – |
 | **Party of Freedom and Justice** (SSP) | [ssp.rs](https://ssp.rs) | [Stranka slobode i pravde](https://www.facebook.com/Stranka-slobode-i-pravde) | [@SSP_srbija](https://twitter.com/SSP_srbija) | [@ssp_srbija](https://instagram.com/ssp_srbija) | – | [SSP Srbija](https://www.youtube.com/@SSPSrbija) | – |
 | **Socialist Party of Serbia** (SPS) | [sps.rs](http://www.sps.rs) | [@sps.srbija](https://www.facebook.com/sps.srbija) | [@sps_srbija](https://twitter.com/sps_srbija) | [@sps_srbija](https://instagram.com/sps_srbija) | – | [SPS Srbija](https://www.youtube.com/@sps.srbija) | – |
 | **People's Movement of Serbia** (NPS) | [nps.rs](http://www.nps.rs) | [@NPS.srbija](https://www.facebook.com/NPS.srbija) | [@NPS_srbija](https://twitter.com/NPS_srbija) | [@nps_srbija](https://instagram.com/nps_srbija) | – | – | – |
