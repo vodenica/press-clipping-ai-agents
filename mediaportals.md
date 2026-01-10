@@ -40,18 +40,17 @@
 | 31 | Sportske.net | [sportske.net](https://sportske.net) | [FB](https://www.facebook.com/sportske.net) | [X](https://x.com/sportske) | [IG](https://www.instagram.com/sportskenet/) | - | [YT](https://www.youtube.com/channel/UCNEN90V1cNX11nq2Gq4214w) | - |
 | 32 | BBC Serbian | [bbc.com/serbian](https://www.bbc.com/serbian) | [FB](https://www.facebook.com/BBCNewsnasrpskom/) | [X](https://x.com/bbcnasrpskom) | [IG](https://www.instagram.com/bbcnewsnasrpskom/) | - | [YT](https://www.youtube.com/@bbcnewsnasrpskom) | - |
 | 33 | Radio Slobodna Evropa | [slobodnaevropa.org](https://www.slobodnaevropa.org) | [FB](https://www.facebook.com/RSE.Balkan) | - | [IG](https://www.instagram.com/radioslobodnaevropa/?igsh=eHZmNWtwaGo3NzJw#) | [TT](https://www.tiktok.com/@radioslobodnaevropa?_t=ZN-90x0foZe8ne&_r=1) | [YT](https://www.youtube.com//@RadioSlobodnaEvropa) | - |
-| 34 | Nedeljnik | [nedeljnik.rs](https://nedeljnik.rs) | [FB](https://www.facebook.com/nedeljnik) | [X](https://x.com/nedeljnik) | [IG](https://www.instagram.com/nedeljnik.rs) |  | [YT](https://www.youtube.com/@Nedeljnik) | [LI](https://www.linkedin.com/company/nedeljnik) |
-| 35 | Nova Ekonomija | [novaekonomija.rs](https://novaekonomija.rs) | [FB](https://www.facebook.com/novaekonomija) |  |  |  |  |  |
-| 36 | Ekonomija Online | [ekonomija.rs](https://ekonomija.rs) |  |  |  |  |  |  |
-| 37 | Balkan Info | [balkaninfo.rs](https://balkaninfo.rs) | [FB](https://www.facebook.com/BalkanInfo) | [X](https://x.com/BalkanInfoTV) | [IG](https://www.instagram.com/balkaninfo) |  | [YT](https://www.youtube.com/@BalkanInfo) |  |
-| 38 | Tabloid.rs | [tabloid.rs](https://tabloid.rs) | [FB](https://www.facebook.com/Tabloid.rs) |  | [IG](https://www.instagram.com/tabloid.rs) |  |  |  |
-| 39 | Pravda.rs | [pravda.rs](https://pravda.rs) | [FB](https://www.facebook.com/pravda.rs) | [X](https://x.com/pravdars) |  |  | [YT](https://www.youtube.com/@PravdaTV) |  |
-| 40 | Objektiv | [objektiv.rs](https://objektiv.rs) | [FB](https://www.facebook.com/objektivrs) | [X](https://x.com/objektivrs) | [IG](https://www.instagram.com/objektiv.rs) |  | [YT](https://www.youtube.com/@Objektiv) |  |
-| 41 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevackenovine) |  |  |  |  |  |
-| 42 | Mašina | [masina.rs](https://masina.rs) | [FB](https://www.facebook.com/MasinaMagazin) | [X](https://x.com/masinamedia) | [IG](https://www.instagram.com/masina.rs) |  | [YT](https://www.youtube.com/@MasinaMagazin) |  |
-| 43 | Srpski Telegraf | [srpskitelegraph.rs](https://srpskitelegraph.rs) | [FB](https://www.facebook.com/SrpskiTelegraf) |  |  |  |  |  |
-| 44 | Argus (Beta) | [argus.rs](https://argus.rs) |  |  |  |  |  |  |
-| 45 | Sandžak Press | [sandzakpress.net](https://sandzakpress.net) | [FB](https://www.facebook.com/sandzakpress) | [X](https://x.com/sandzakpress) | [IG](https://www.instagram.com/sandzakpress) |  |  |  |
+| 34 | Nova Ekonomija | [novaekonomija.rs](https://novaekonomija.rs) | [FB](https://www.facebook.com/novaekonomija) |  |  |  |  |  |
+| 35 | Ekonomija Online | [ekonomija.rs](https://ekonomija.rs) |  |  |  |  |  |  |
+| 36 | Balkan Info | [balkaninfo.rs](https://balkaninfo.rs) | [FB](https://www.facebook.com/BalkanInfo) | [X](https://x.com/BalkanInfoTV) | [IG](https://www.instagram.com/balkaninfo) |  | [YT](https://www.youtube.com/@BalkanInfo) |  |
+| 37 | Tabloid.rs | [tabloid.rs](https://tabloid.rs) | [FB](https://www.facebook.com/Tabloid.rs) |  | [IG](https://www.instagram.com/tabloid.rs) |  |  |  |
+| 38 | Pravda.rs | [pravda.rs](https://pravda.rs) | [FB](https://www.facebook.com/pravda.rs) | [X](https://x.com/pravdars) |  |  | [YT](https://www.youtube.com/@PravdaTV) |  |
+| 39 | Objektiv | [objektiv.rs](https://objektiv.rs) | [FB](https://www.facebook.com/objektivrs) | [X](https://x.com/objektivrs) | [IG](https://www.instagram.com/objektiv.rs) |  | [YT](https://www.youtube.com/@Objektiv) |  |
+| 40 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevackenovine) |  |  |  |  |  |
+| 41 | Mašina | [masina.rs](https://masina.rs) | [FB](https://www.facebook.com/MasinaMagazin) | [X](https://x.com/masinamedia) | [IG](https://www.instagram.com/masina.rs) |  | [YT](https://www.youtube.com/@MasinaMagazin) |  |
+| 42 | Srpski Telegraf | [srpskitelegraph.rs](https://srpskitelegraph.rs) | [FB](https://www.facebook.com/SrpskiTelegraf) |  |  |  |  |  |
+| 43 | Argus (Beta) | [argus.rs](https://argus.rs) |  |  |  |  |  |  |
+| 44 | Sandžak Press | [sandzakpress.net](https://sandzakpress.net) | [FB](https://www.facebook.com/sandzakpress) | [X](https://x.com/sandzakpress) | [IG](https://www.instagram.com/sandzakpress) |  |  |  |
 
 ---
 
