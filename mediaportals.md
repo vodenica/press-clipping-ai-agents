@@ -44,7 +44,7 @@
 | 35 | Balkan Info | [balkaninfo.rs](https://balkaninfo.rs) | [FB](https://www.facebook.com/tvbalkaninfo/) | [X](https://x.com/tvbalkaninfo) | [IG](https://www.instagram.com/tvbalkaninfo/) | - | [YT](https://www.youtube.com/channel/UCLG5Qu54Q7gywaCeDs5etuQ) | - |
 | 36 | Pravda.rs | [pravda.rs](https://pravda.rs) | - | - | - | - | - | - |
 | 37 | Objektiv | [objektiv.rs](https://objektiv.rs) | [FB](https://www.facebook.com/objektivrs) | - | [IG](https://www.instagram.com/objektiv.rs) | - | [YT](https://www.youtube.com/channel/UC2jiqNkYW-bMpGKnlctHimg) | - |
-| 38 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevackenovine) |  |  |  |  |  |
+| 38 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevacke) | - | [IG](https://www.instagram.com/kragujevacke/) | - | - | - |
 | 39 | Mašina | [masina.rs](https://masina.rs) | [FB](https://www.facebook.com/MasinaMagazin) | [X](https://x.com/masinamedia) | [IG](https://www.instagram.com/masina.rs) |  | [YT](https://www.youtube.com/@MasinaMagazin) |  |
 | 40 | Srpski Telegraf | [srpskitelegraph.rs](https://srpskitelegraph.rs) | [FB](https://www.facebook.com/SrpskiTelegraf) |  |  |  |  |  |
 | 41 | Argus (Beta) | [argus.rs](https://argus.rs) |  |  |  |  |  |  |
