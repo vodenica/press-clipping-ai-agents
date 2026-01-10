@@ -46,7 +46,7 @@
 | 37 | Objektiv | [objektiv.rs](https://objektiv.rs) | [FB](https://www.facebook.com/objektivrs) | - | [IG](https://www.instagram.com/objektiv.rs) | - | [YT](https://www.youtube.com/channel/UC2jiqNkYW-bMpGKnlctHimg) | - |
 | 38 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevacke) | - | [IG](https://www.instagram.com/kragujevacke/) | - | - | - |
 | 39 | Mašina | [masina.rs](https://masina.rs) | [FB](https://www.facebook.com/masinars) | [X](https://x.com/MasinaRS) | [IG](https://www.instagram.com/masina.rs) | [TT](https://www.tiktok.com/@portalmasina?lang=en) | - | - |
-| 40 | Sandžak Press | [sandzakpress.net](https://sandzakpress.net) | [FB](https://www.facebook.com/sandzakpress) | [X](https://x.com/sandzakpress) | [IG](https://www.instagram.com/sandzakpress) |  |  |  |
+| 40 | Sandžak Press | [sandzakpress.net](https://sandzakpress.net) | [FB](https://www.facebook.com/sandzakpress) | [X](https://x.com/sandzakpress) | - | - | - | - |
 
 ---
 
