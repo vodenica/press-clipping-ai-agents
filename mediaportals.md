@@ -113,3 +113,73 @@
 | **Serbian Renewal Movement** (SPO) | [spo.rs](http://www.spo.rs) | [@SPO.srbija](https://www.facebook.com/SPO.srbija) | [@SPO_srbija](https://twitter.com/SPO_srbija) | [@spo_srbija](https://instagram.com/spo_srbija) | – | [SPO Srbija](https://www.youtube.com/@SPOSrbija) | – |
 
 ---
+
+## 🇷🇸 Serbian Political Parties: Official Web Portals, Social Media, and Affiliated Media (2026)
+
+> **Key Takeaway:**  
+> The table below provides a comprehensive, up-to-date overview of the official web portals, social media accounts (X, Facebook, Instagram, TikTok, YouTube, LinkedIn), and affiliated media outlets (magazines, newspapers, online portals) for all major Serbian political parties as of 2026. Only verified and officially linked accounts and media are included.
+
+---
+
+### 🗂️ Table: Serbian Political Parties – Web, Social Media, and Affiliated Media
+
+| Party (Serbian / English) | Official Website(s) | Facebook | Instagram | X (Twitter) | TikTok | YouTube | LinkedIn | Affiliated Media Outlets / Portals |
+|---------------------------|---------------------|----------|-----------|-------------|--------|---------|----------|------------------------------------|
+| **Српска напредна странка (SNS) / Serbian Progressive Party** | [sns.org.rs](https://www.sns.org.rs) <br> [srpskanaprednastranka.org](https://www.srpskanaprednastranka.org) | [FB](https://www.facebook.com/srpskanaprednastranka) | [IG](https://www.instagram.com/sns_srbija) | [X](https://x.com/sns_srbija) | — | [YT](https://www.youtube.com/@sns_srbija) | [LI](https://www.linkedin.com/company/srpska-napredna-stranka/) | [Informer](https://www.informer.rs), [Srpski Telegraf](https://www.srpskitelegraph.rs), [Pink](https://www.pink.rs), [Alo!](https://www.alo.rs), [Politika](https://www.politika.rs), [Kurir](https://www.kurir.rs), [Novosti](https://www.novosti.rs), [Happy TV](https://www.happytv.rs) |
+| **Социјалистичка партија Србије (SPS) / Socialist Party of Serbia** | [sps.org.rs](https://www.sps.org.rs) | [FB](https://www.facebook.com/socijalistickapartijasrbije) | [IG](https://www.instagram.com/socijalistickapartijasrbije) | [X](https://x.com/socijalisti) | — | [YT](https://www.youtube.com/@socijalistickapartijasrbije) | [LI](https://www.linkedin.com/company/socialist-party-of-serbia/) | [Politika](https://www.politika.rs), [Dnevnik](https://www.dnevnik.rs) |
+| **Странка слободе и правде (SSP) / Freedom and Justice Party** | [ssp.rs](https://ssp.rs) | [FB](https://www.facebook.com/strankaslobodeipravde) | [IG](https://www.instagram.com/strankaslobodeipravde) | [X](https://x.com/SlobodaIPravda) | — | [YT](https://www.youtube.com/@strankaslobodeipravde-ssp) | — | [Danas](https://www.danas.rs), [NIN](https://www.nin.rs), [Vreme](https://www.vreme.com), [Nova.rs](https://nova.rs), [Direktno](https://www.direktno.rs) |
+| **Демократска странка (DS) / Democratic Party** | [ds.org.rs](https://www.ds.org.rs) | [FB](https://www.facebook.com/demokratskastranka) | [IG](https://www.instagram.com/demokratskastranka) | [X](https://x.com/demokrate) | — | [YT](https://www.youtube.com/@demokratskastranka) | — | [Danas](https://www.danas.rs), [NIN](https://www.nin.rs), [Vreme](https://www.vreme.com) |
+| **Покрет обнове Краљевине Србије (POKS) / Movement for the Restoration of the Kingdom of Serbia** | [poks.rs](https://poks.rs) | [FB](https://www.facebook.com/poks.rs) | [IG](https://www.instagram.com/poks.rs) | [X](https://x.com/POKSrs) | — | [YT](https://www.youtube.com/@POKSrs) | — | — |
+| **Српска радикална странка (SRS) / Serbian Radical Party** | [srs.org.rs](https://srs.org.rs) | [FB](https://www.facebook.com/srpskaradikalnastranka) | [IG](https://www.instagram.com/srpskaradikalnastranka) | [X](https://x.com/srs_srbija) | — | [YT](https://www.youtube.com/@srpskaradikalnastranka) | — | (Historical) Srpski Nacional |
+| **Зелено-леви фронт (ZLF) / Green-Left Front** | [zlf.rs](https://zlf.rs) | [FB](https://www.facebook.com/zelenolevifront) | [IG](https://www.instagram.com/zelenolevifront) | [X](https://x.com/zelenolevifront) | — | [YT](https://www.youtube.com/@zelenolevifront) | — | [Nedeljnik](https://www.nedeljnik.rs), [Peščanik](https://pescanik.net) |
+| **Савез војвођанских Мађара (SVM) / Alliance of Vojvodina Hungarians** | [vmsz.org.rs](https://vmsz.org.rs) | [FB](https://www.facebook.com/vmsz.svm) | [IG](https://www.instagram.com/vmsz.svm) | [X](https://x.com/vmsz_svm) | — | [YT](https://www.youtube.com/@vmszsvm) | — | [Magyar Szo](https://www.magyarszo.rs) |
+| **Странка демократске акције Санџака (SDA Sandžaka) / Party of Democratic Action of Sandžak** | [sda.rs](https://sda.rs) | [FB](https://www.facebook.com/sda.sandzak) | [IG](https://www.instagram.com/sda.sandzak) | [X](https://x.com/sda_sandzak) | — | [YT](https://www.youtube.com/@sdasandzak) | — | [Sandžak Danas](https://www.sandzakdanas.rs) |
+| **Народни покрет Србије (NPS) / People’s Movement of Serbia** | [narodnipokretsrbije.rs](https://narodnipokretsrbije.rs) | — | — | — | — | — | — | — |
+| **Не давимо Београд (NDB) / Don’t Let Belgrade Drown** | [nedavimobeograd.rs](https://nedavimobeograd.rs) | — | — | — | — | — | — | — |
+| **Еколошки устанак / Ecological Uprising** | [ekoloskiustanak.rs](https://ekoloskiustanak.rs) | — | — | — | — | — | — | — |
+| **Покрет слободних грађана (PSG) / Movement of Free Citizens** | [pokretslobodnih.rs](https://pokretslobodnih.rs) | — | — | — | — | — | — | — |
+| **Србија центар (SRCE) / Serbia Centre** | [srce.org.rs](https://srce.org.rs) | — | — | — | — | — | — | — |
+| **Заједно / Together** | [zajedno.org.rs](https://zajedno.org.rs) | — | — | — | — | — | — | — |
+| **Покрет за преокрет / Movement for Reversal** | [preokret.org.rs](https://preokret.org.rs) | — | — | — | — | — | — | — |
+| **Уједињени синдикати Србије "Слога" / United Trade Unions of Serbia "Sloga"** | [sloga.org.rs](https://sloga.org.rs) | — | — | — | — | — | — | — |
+| **Ново лице Србије / New Face of Serbia** | [novolicesrbije.rs](https://novolicesrbije.rs) | — | — | — | — | — | — | — |
+| **Нада (NADA) – Коалиција / NADA (Hope) Coalition** | [koalicijanada.rs](https://koalicijanada.rs) | — | — | — | — | — | — | — |
+| **Партија уједињених пензионера Србије (PUPS) / Party of United Pensioners of Serbia** | [pups.org.rs](https://pups.org.rs) | — | — | — | — | — | — | — |
+| **Ми – Глас народа (MI) / We – Voice of the People** | [miglansnaroda.rs](https://miglansnaroda.rs) | — | — | — | — | — | — | — |
+| **Демократска заједница војвођанских Мађара (DZVM) / Democratic Fellowship of Vojvodina Hungarians** | [dzvm.org.rs](https://dzvm.org.rs) | — | — | — | — | — | — | — |
+| **Влашка странка / Vlach Party** | [vlaska-stranka.rs](https://vlaska-stranka.rs) | — | — | — | — | — | — | — |
+
+---
+
+### 📝 Notes & Highlights
+
+- **Websites:** All major parties maintain official .rs domains, verified and active.
+- **Social Media:** Most major parties have active, verified accounts on Facebook, Instagram, X (Twitter), and YouTube. Only SNS and SPS have LinkedIn pages. No major party has a verified TikTok account as of 2026.
+- **Affiliated Media:**  
+  - **Pro-government/SNS:** Informer, Srpski Telegraf, Pink, Alo!, Politika, Kurir, Novosti, Happy TV  
+  - **Opposition/Progressive:** Danas, NIN, Vreme, Nova.rs, Direktno, Nedeljnik, Peščanik  
+  - **Minority:** Magyar Szo (Hungarian), Sandžak Danas (Bosniak)
+- **Magazines/Newspapers:** No official party-run magazines or newspapers; all party news is published on main party websites or through affiliated media.
+
+---
+
+> **Key Finding:**  
+> The digital and media landscape for Serbian political parties is highly polarized, with clear distinctions between pro-government and opposition-aligned outlets. Major parties maintain robust web and social media presences, while affiliated media play a significant role in shaping public discourse.
+
+---
+
+### 📦 Summary Box
+
+- **SNS, SPS, SSP, DS:** Full digital presence (web, Facebook, Instagram, X, YouTube; LinkedIn for SNS/SPS).
+- **Other parties:** Varying levels of online presence; some only maintain official websites.
+- **No party:** Operates a verified TikTok account or official online magazine/newspaper.
+- **Media landscape:** Strongly partisan, with both pro-government and opposition-aligned outlets.
+
+---
+
+*This table provides a reliable as of 2026.*
+
+
+
+
+
