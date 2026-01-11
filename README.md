@@ -3,6 +3,7 @@ This project will consist of prompts and answers related to building an AI Agent
 
 **The Main File**
 - [Serbian Media Web Portals & Social Media Accounts](mediaportalsfull.md)
+- [Political Parties in Serbia](politicalparties.md)
 
 ### AI Agent System prompt (check)
 
