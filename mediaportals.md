@@ -47,7 +47,9 @@
 | 38 | Kragujevačke Novine | [kragujevacke.rs](https://kragujevacke.rs) | [FB](https://www.facebook.com/kragujevacke) | - | [IG](https://www.instagram.com/kragujevacke/) | - | - | - |
 | 39 | Mašina | [masina.rs](https://masina.rs) | [FB](https://www.facebook.com/masinars) | [X](https://x.com/MasinaRS) | [IG](https://www.instagram.com/masina.rs) | [TT](https://www.tiktok.com/@portalmasina?lang=en) | - | - |
 | 40 | Sandžak Press | [sandzakpress.net](https://sandzakpress.net) | [FB](https://www.facebook.com/sandzakpress) | [X](https://x.com/sandzakpress) | - | - | - | - |
-| 41 | Alo! | [alo.rs/](https://www.alo.rs/) | [FB](https://www.facebook.com/ALOjavlja) | [X](https://x.com/alonovine) | [IG](https://www.instagram.com/alo_novine/) | - | [YT](https://www.youtube.com/channel/UCV7Ka_sKGrrcXO3C1_RXBcw) | - |
+| 41 | Alo! | [alo.rs](https://www.alo.rs/) | [FB](https://www.facebook.com/ALOjavlja) | [X](https://x.com/alonovine) | [IG](https://www.instagram.com/alo_novine/) | - | [YT](https://www.youtube.com/channel/UCV7Ka_sKGrrcXO3C1_RXBcw) | - |
+| 42 | Novosti | [novosti.rs](https://www.novosti.rs) | [FB](https://www.facebook.com/novostionline/#) | [X](https://x.com/novosti_rs) | [IG](https://www.instagram.com/vecernjenovosti.rs/) | - | [YT](https://www.youtube.com/c/novostivnonline/featured) | - |
+
 ---
 
 ## 🇷🇸 The Most Visited and Influential Serbian News Media Outlets in Niš (January 2026)
