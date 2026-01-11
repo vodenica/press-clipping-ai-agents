@@ -1,6 +1,9 @@
 # Press Clliping AI Agents
 This project will consist of prompts and answers related to building an AI Agent(s) that extracts news based on specific keywords. The result will be provided as a report, including the title of the news, a brief overview, the date the report was generated, and the AI agent used.
 
+**The Main File**
+- [New Media Web Portals & Social Media Accounts](mediaportals.md)
+
 ### AI Agent System prompt (check)
 
 For the purposes of creating an AI agent that will work as a "Press Clipping" agency application, it will conduct **deep research** and **scrape** the data and information on news media platforms on dedicated URLs on the internet for particular terms. Additionally, social media accounts associated with these news media portals will be used by AI agents to scrape all data and information related to specific terms. Please outline the System Prompt, which will consist of a detailed explanation for each of its parts, including: Role, Task, Context, Reasoning, Output, and Stopping. 
