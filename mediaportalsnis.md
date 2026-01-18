@@ -25,4 +25,3 @@
 | 21 |**Open Serbia**|https://openserbia.rs/|-|
 | 22 |**Republika**|https://www.republika.rs/|-|
 | 23 |**Niške Novine**|https://www.niskenovine.rs/|-|
-|||||
