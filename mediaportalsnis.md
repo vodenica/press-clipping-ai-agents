@@ -1,11 +1,11 @@
 # List of News Media Web Portals in Niš, Serbia
 
-|Priority|Media Name|URL|NOTE|
-|:---------------:|:---------------|:---------------|:---------------:|
+|Priority|Media Name|URL|RSS Feed|
+|:---------------:|:---------------|:---------------|:---------------|
 | 1 |**Južne Vesti**|https://www.juznevesti.com/|-|
-| 2 |**Niške Vesti**|https://niskevesti.rs/|-|
-| 3 |**Glas Juga**|https://glasjuga.rs/|-|
-| 4 |**Gradski Portal 018**|https://gradskiportal018.rs/|-|
+| 2 |**Niške Vesti**|https://niskevesti.rs/|https://niskevesti.rs/feed/|
+| 3 |**Glas Juga**|https://glasjuga.rs/|https://glasjuga.rs/feed/|
+| 4 |**Gradski Portal 018**|https://gradskiportal018.rs/|https://gradskiportal018.rs/feed/|
 | 5 |**Južno**|https://juzno.rs/|-|
 | 6 |**Niš TV** Portal|https://nistv.rs/|-|
 | 7 |**Belle Amie**|https://belami.rs/|-|
@@ -24,3 +24,5 @@
 | 20 |**NI Media**|https://nimedia.rs/|-|
 | 21 |**Open Serbia**|https://openserbia.rs/|-|
 | 22 |**Republika**|https://www.republika.rs/|-|
+| 23 |**Niške Novine**|https://www.niskenovine.rs/|-|
+|||||
