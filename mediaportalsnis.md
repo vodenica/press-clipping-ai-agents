@@ -7,7 +7,7 @@
 | 3 |**Glas Juga**|https://glasjuga.rs/|https://glasjuga.rs/feed/|
 | 4 |**Gradski Portal 018**|https://gradskiportal018.rs/|https://gradskiportal018.rs/feed/|
 | 5 |**Južno**|https://juzno.rs/|-|
-| 6 |**Niš TV** Portal|https://nistv.rs/|-|
+| 6 |**Niš TV Portal**|https://nistv.rs/|-|
 | 7 |**Belle Amie**|https://belami.rs/|-|
 | 8 |**Banker Radio**|https://radiobanker.rs/|-|
 | 9 |**Ramonda**|https://portalramonda.rs/|-|
